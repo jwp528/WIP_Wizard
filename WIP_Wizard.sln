@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP_Wizard", "WIP_Wizard\WIP_Wizard\WIP_Wizard.csproj", "{8ECD5C04-6B39-43F2-B228-C8736EDD1320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP_Wizard.Client", "WIP_Wizard\WIP_Wizard.Client\WIP_Wizard.Client.csproj", "{F5B2B757-F56B-4DF1-8ABF-C837B6AD622B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECD5C04-6B39-43F2-B228-C8736EDD1320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECD5C04-6B39-43F2-B228-C8736EDD1320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECD5C04-6B39-43F2-B228-C8736EDD1320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECD5C04-6B39-43F2-B228-C8736EDD1320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B2B757-F56B-4DF1-8ABF-C837B6AD622B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B2B757-F56B-4DF1-8ABF-C837B6AD622B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B2B757-F56B-4DF1-8ABF-C837B6AD622B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B2B757-F56B-4DF1-8ABF-C837B6AD622B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A67337-7448-4851-AE11-1292C6A60EA3}
+	EndGlobalSection
+EndGlobal
